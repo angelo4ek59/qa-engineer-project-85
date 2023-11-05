@@ -1,1 +1,158 @@
+---
+- summary: |
+    Успешная регистрация пользователя
+  status: pass
 
+- summary: |
+    Успешный вход пользователя с существующими логином и паролем
+  status: pass
+
+- summary: |
+    Успешный вход пользователя через Github
+  status: pass
+
+- summary: |
+    Успешный вход пользователя через Discord
+  status: pass
+
+- summary: |
+    Успешное отображение главной страницы приложения
+  status: pass
+
+- summary: |
+    Успешное переключение между вкладками "Лобби", "Турниры", "Завершенные игры"
+  status: pass
+
+- summary: |
+    Успешное подключение к сражению (игре)
+  status: pass
+
+- summary: |
+    Успешный показ турнира
+  status: pass
+
+- summary: |
+    Успешный показ завершенных игр
+  status: pass
+
+- summary: |
+    Успешное отображение рейтинга пользователей
+  status: pass
+
+- summary: |
+    Успешный поиск пользователя на странице рейтинга пользователя
+  status: fail
+
+- summary: |
+    Успешная фильтрация списка пользователей по "рангу", "рейтингу", "сыграно игр", "присоединился к"
+  status: pass
+
+- summary: |
+    Успешное отображение списка пользователей на странице (по количеству)
+  status: pass
+
+- summary: |
+    Успешное отображение списка пользователей "с ботами"
+  status: pass
+
+- summary: |
+    Успешная навигация по страницам рейтинга пользователей
+  status: pass
+
+- summary: |
+    Успешное отображение игроков в онлайн
+  status: pass
+
+- summary: |
+    Успешное отправление личного сообщения
+  status: pass
+
+- summary: |
+    Успешное отправление приглашения
+  status: pass
+
+- summary: |
+    Успешное создание игры
+  status: pass
+
+- summary: |
+    Успешная игра без регистрации
+  status: pass
+
+- summary: |
+    Успешное решение задачи в игре
+  status: pass
+
+- summary: |
+    Успешное завершение игры (модальное окно)
+  status: pass
+
+- summary: |
+    Успешный выход из игры
+  status: pass
+
+- summary: |
+    Успешное отображение двух редакторов
+  status: pass
+
+- summary: |
+    Успешное отображение кода соперника
+  status: pass
+- summary: |
+    Успешное отображение времени игры (таймер)
+  status: pass
+
+- summary: |
+    Успешная работа кнопки "Сдаться"
+  status: pass
+
+- summary: |
+    Успешная работа кнопки "Сброса"
+  status: fail
+
+- summary: |
+    Успешное переподключение к игре
+  status: fail
+
+- summary: |
+    Успешное переподключение к игре через вкладку "Лобби"
+  status: fail
+
+- summary: |
+    Успешная смена фона в редакторе
+  status: pass
+
+- summary: |
+    Успешная адаптивность редактора игры
+  status: fail
+
+- summary: |
+    Успешная смена языка в игре
+  status: pass
+
+- summary: |
+    Успешная работа чата игры
+  status: pass
+
+- summary: |
+    Успешный просмотр истории
+  status: pass
+
+- summary: |
+    Успешная работа Codebattle в браузере MicrosoftEdge
+  status: pass
+
+- summary: |
+    Успешная работа Codebattle в браузере Firefox
+  status: pass
+
+- summary: |
+    Успешная адаптивность Codebattle на мобильном устройстве
+  status: pass
+- summary: |
+    Успешный мониторинг запросов в браузере Chrome
+  status: pass
+
+- summary: |
+    Успешный мониторинг запросов в браузере Firefox
+  status: pass
