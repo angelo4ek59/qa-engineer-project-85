@@ -104,19 +104,19 @@
 
 - summary: |
     Успешная работа кнопки "Сдаться"
-  status: pass
-
+  status:  pass
+  
 - summary: |
     Успешная работа кнопки "Сброса"
-  status: fail
+  status:  pass
 
 - summary: |
     Успешное переподключение к игре
-  status: fail
+  status:  pass
 
 - summary: |
     Успешное переподключение к игре через вкладку "Лобби"
-  status: fail
+  status:  pass
 
 - summary: |
     Успешная смена фона в редакторе
