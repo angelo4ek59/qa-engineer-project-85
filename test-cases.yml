@@ -1,14 +1,12 @@
 ---
-summary: |
+- summary: |
     Успешная регистрация пользователя
   requirement: |
     При верном вводе логине и пароля пользователь должен зарегистрироваться в системе
   prerequisites: |
     Открыта страница регистрации
   test-data: |
-    Nickname = ilona
-    Password = 1234word
-    Email = joker_l11@mail.ru
+    Nickname = ilona Password = 1234word Email = joker_l11@mail.ru
   steps:
     - ВводимNickname
     - ВводимEmail
@@ -16,7 +14,7 @@ summary: |
     - Повторный ввод Password
     - Нажимаем кнопку "Регистрация"
   expected-result: |
-    Пользователь должен успешно зарегистрироваться 
+    Пользователь успешно зарегистрировался
 
 - summary: |
     Успешный вход пользователя с существующими логином и паролем
