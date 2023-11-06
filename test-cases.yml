@@ -1,4 +1,5 @@
 ---
+test-cases:
 - summary: |
     Успешная регистрация пользователя
   requirement: |
