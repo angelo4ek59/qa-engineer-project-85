@@ -6,7 +6,6 @@ summary: |
   prerequisites: |
     Открыта страница регистрации
   test-data: |
-    Тестовыеданные
     Nickname = ilona
     Password = 1234word
     Email = joker_l11@mail.ru
