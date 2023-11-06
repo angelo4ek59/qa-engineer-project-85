@@ -149,6 +149,7 @@
 - summary: |
     Успешная адаптивность Codebattle на мобильном устройстве
   status: pass
+  
 - summary: |
     Успешный мониторинг запросов в браузере Chrome
   status: pass
