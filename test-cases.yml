@@ -6,11 +6,11 @@
   prerequisites: |
     Открыта страница регистрации
   test-data: |
-    Nickname = ilona Password = 1234word Email = joker_l11@mail.ru
+    Nickname = ilona Password = 1234word Email = joker_l11@mail.ru # в последующем вводе изменяем: nickname, password, email
   steps:
-    - ВводимNickname
-    - ВводимEmail
-    - ВводимPassword
+    - Вводим Nickname
+    - Вводим Email
+    - Вводим Password
     - Повторный ввод Password
     - Нажимаем кнопку "Регистрация"
   expected-result: |
