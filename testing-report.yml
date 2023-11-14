@@ -16,15 +16,11 @@
   status: pass
 
 - summary: |
-    Успешное отображение главной страницы приложения
-  status: pass
-
-- summary: |
     Успешное переключение между вкладками "Лобби", "Турниры", "Завершенные игры"
   status: pass
 
 - summary: |
-    Успешное подключение к сражению (игре)
+    Успешное подключение к доступной игре
   status: pass
 
 - summary: |
@@ -72,58 +68,27 @@
   status: pass
 
 - summary: |
-    Успешное создание игры
-  status: pass
-
-- summary: |
-    Успешная игра без регистрации
-  status: pass
-
-- summary: |
-    Успешное решение задачи в игре
-  status: pass
-
-- summary: |
-    Успешное завершение игры (модальное окно)
-  status: pass
-
-- summary: |
     Успешный выход из игры
   status: pass
 
 - summary: |
-    Успешное отображение двух редакторов
+    Корректное отображение двух редакторов 
   status: pass
 
-- summary: |
-    Успешное отображение кода соперника
-  status: pass
 - summary: |
     Успешное отображение времени игры (таймер)
   status: pass
 
 - summary: |
-    Успешная работа кнопки "Сдаться"
-  status:  pass
-  
-- summary: |
-    Успешная работа кнопки "Сброса"
-  status:  pass
-
-- summary: |
     Успешное переподключение к игре
-  status:  pass
-
-- summary: |
-    Успешное переподключение к игре через вкладку "Лобби"
-  status:  pass
-
-- summary: |
-    Успешная смена фона в редакторе
   status: pass
 
 - summary: |
-    Успешная адаптивность редактора игры
+    Успешный переподключение к игре через вкладку "Лобби"
+  status: pass
+
+- summary: |
+    Успешная смена фона в редакторе
   status: fail
 
 - summary: |
@@ -149,11 +114,47 @@
 - summary: |
     Успешная адаптивность Codebattle на мобильном устройстве
   status: pass
-  
+
 - summary: |
     Успешный мониторинг запросов в браузере Chrome
   status: pass
 
 - summary: |
     Успешный мониторинг запросов в браузере Firefox
+  status: pass
+
+- summary: |
+    Успешное создание игры с ботом
+  status: pass
+
+- summary: |
+    Успешное создание игры с другом
+  status: pass
+
+- summary: |
+    Успешное создание игры с другим пользователем
+  status: pass
+
+- summary: |
+    Неверное решение 
+  status: pass
+
+- summary: |
+    Выигрыш в игре
+  status: pass
+
+- summary: |
+    Поражение в игре
+  status: pass
+
+- summary: |
+    Сдаемся в игре
+  status: pass
+
+- summary: |
+    Успешная игра без регистрации
+  status: pass
+
+- summary: |
+    Успешная работа кнопки "Сброса редактора "
   status: pass
